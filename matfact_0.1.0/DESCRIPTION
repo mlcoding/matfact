@@ -1,0 +1,11 @@
+Package: matfact
+Type: Package
+Title: Matrix Factorization Modeling
+Version: 0.1.0
+Date: 2016-08-05
+Author: Xingguo Li, Enayat Ullah and Tuo Zhao
+Maintainer: Xingguo Li <xingguo.leo@gmail.com>
+Depends: R (>= 2.15.0), Matrix
+Description: Implements a family of matrix factorization models via non-convex optimization. The models considered include low rank matrix linear regression, low rank matrix logistic regression, and robust principle component analysis. 
+License: GPL-2
+Repository: CRAN
