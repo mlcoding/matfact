@@ -1,5 +1,0 @@
-useDynLib("matfact")
-import("Matrix")
-export("matfact"
-      )
-importFrom("stats","rnorm")
